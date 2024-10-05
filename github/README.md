@@ -1,11 +1,5 @@
 # Como crear un proyecto de GitHub
 
-# Proyectos frontend
-
-Esta carpeta contendrá diferentes tipos de proyectos creando páginas web con tecnologías HTML, CSS y Javascript
-
-## Como crear un proyecto en Github.
-
 - Prerequisito. tener una cuenta en Github.
 
 1. Ir a **Repositories** y crear un proyecto nuevo con el botón **New**
