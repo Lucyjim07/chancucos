@@ -1,7 +1,3 @@
-# Plant store landing page
-
-Este proyecto se realiza siguiendo el tutorial de [youtube](https://www.youtube.com/watch?v=zKguO4oaAGs)
-
 ## Instalación de Tailwind Css en Vite
 
 Para instalar la herramienta de Tailwind en proyectos generados con Vite, se siguen las instrucciones de la [web oficial](https://tailwindcss.com/docs/guides/vite), a continuación descritas.
